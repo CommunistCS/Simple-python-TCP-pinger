@@ -7,10 +7,6 @@ BANNER = f"""{fg(1)}
 ╔═╗┌─┐┌┬┐┌┬┐┬┌─┐
 ║  │ ││││││││├┤ 
 ╚═╝└─┘┴ ┴┴ ┴┴└─┘
-          
- Made By Communist, Fuck all of u Commie Skids 
-
-
 """
 
 def tcpping(ip,port):
